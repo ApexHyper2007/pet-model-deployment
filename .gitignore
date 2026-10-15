@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Python cache / testing
+.pytest_cache/
+.coverage
+.coverage.*
+
+# Environment variables
+.env
+
+# Large dataset files
+images/
+annotations/
+processed_images/
+
+# Dataset archives
+*.tar.gz
+*.zip
+
+# Trained model files
+*.pth
+
+# Personal test images
+my_pet.jpg
+st.bern.jpg
+
+# Temporary files
+*.tmp
+*.log
+
+# Old experimental scripts
+old_scripts/

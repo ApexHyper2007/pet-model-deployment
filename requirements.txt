@@ -1,0 +1,12 @@
+torch==2.14.0
+torchvision==0.29.0
+numpy
+Pillow
+scikit-learn==1.9.1
+scipy
+joblib
+fastapi
+uvicorn
+python-multipart
+pytest
+httpx
